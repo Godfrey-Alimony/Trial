@@ -1,5 +1,5 @@
 body {
-    color: purple;
-    background-color: green;
-    background: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #74992e;
 }
